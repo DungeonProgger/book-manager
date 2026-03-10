@@ -2,4 +2,4 @@
 
 Персональный менеджер книг для чтения с возможностью добавления, отметки прочитанных, оценки и удаления
 
-**[Открыть приложение](https://dungeonprogger.github.io/vue-book-manager/)**
+**[Открыть приложение](https://dungeonprogger.github.io/book-manager/)**
